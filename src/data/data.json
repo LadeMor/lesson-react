@@ -1,0 +1,22 @@
+{
+    "tasksList":[
+        {
+            "id": 1,
+            "title": "Walk with dog",
+            "description": "I should walk with my dog",
+            "priority": 1
+        },
+        {
+            "id": 2,
+            "title": "But some milk",
+            "description": "I should buy milk",
+            "priority": 2
+        },
+        {
+            "id": 3,
+            "title": "Go to the gym",
+            "description": "I should go to the gym",
+            "priority": 3
+        }
+      ]
+}
